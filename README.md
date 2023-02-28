@@ -1,16 +1,26 @@
-### Hi there 👋
+### Olá! Eu sou Victor Hugo 👋
 
-<!--
-**VictorCDev/VictorCDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorCDev&theme=dracula&show_icons=true"/>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCDev&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <div style="display: inline_block"><br>
+    <h1 align="center">Melhores Tecnologias</h1>
+      <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+      <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+      <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>    
+      <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+      <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div align="center">
+  <h1 align="center">Redes Sociais</h1>
+  <a href="https://www.linkedin.com/in/victor-hugo-0326b5b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+![Snake animation](https://github.com/VictorCDev/VictorCDev/blob/output/github-contribution-grid-snake.svg)
