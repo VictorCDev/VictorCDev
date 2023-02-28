@@ -1,7 +1,7 @@
 ### Olá! Eu sou Victor Hugo 👋
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorCDev&theme=dracula&show_icons=true"/>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorCDev&theme=dracula&show_icons=true"/>
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCDev&layout=compact&langs_count=16&theme=dracula"/>
   <br>
 </div>
